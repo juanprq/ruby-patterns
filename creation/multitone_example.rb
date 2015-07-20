@@ -1,5 +1,5 @@
 class Dependency
-  # Class methos definition
+  # Definition of class methods
   class << self
     def instances
       @instances ||= {}
