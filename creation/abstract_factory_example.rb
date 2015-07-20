@@ -1,6 +1,6 @@
 # Kia brand module
 module Kia
-  # class method definition
+  # class methods definition
   extend self
 
   def store
@@ -24,7 +24,7 @@ module Renault
     Store.new
   end
 
-  # Store class definitio
+  # Store class definition
   class Store
     def buy_car
       puts "you bought a renault koleos"
