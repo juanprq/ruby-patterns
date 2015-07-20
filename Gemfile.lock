@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bluecloth (2.2.0)
+    rdiscount (2.1.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bluecloth
+  rdiscount
+
+BUNDLED WITH
+   1.10.5
