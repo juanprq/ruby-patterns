@@ -12,7 +12,7 @@ After cloning the repository install the required dependencies running:
 bundle install
 ```
 
-Now you can execute any example of the patterns.
+Now you can execute any example.
 
 Creational patterns
 ---
@@ -22,7 +22,7 @@ Creational patterns
  * [Multitone](https://github.com/juanprq/ruby-patterns/blob/master/creation/multitone_example.rb)
  * [Factory](https://github.com/juanprq/ruby-patterns/blob/master/creation/factory_example.rb)
  * [Builder](https://github.com/juanprq/ruby-patterns/blob/master/creation/builder_example.rb)
- * Abstract Factory(https://github.com/juanprq/ruby-patterns/blob/master/creation/abstract_factory_example.rb)
+ * [Abstract Factory](https://github.com/juanprq/ruby-patterns/blob/master/creation/abstract_factory_example.rb)
 
 Structural patterns
 ---
@@ -31,3 +31,8 @@ Structural patterns
  * [Decorator](https://github.com/juanprq/ruby-patterns/blob/master/structural/decorator_example.rb)
  * [Facade](https://github.com/juanprq/ruby-patterns/blob/master/structural/facade_example.rb)
  * [Proxy](https://github.com/juanprq/ruby-patterns/blob/master/structural/proxy_example.rb)
+
+Sources
+---
+
+Many of this examples are based on the information in the site https://practicingruby.com/.
