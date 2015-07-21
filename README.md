@@ -36,3 +36,8 @@ Sources
 ---
 
 Many of this examples are based on the information in the site https://practicingruby.com/.
+
+Presentation
+---
+
+The presentation in spanish can be found in this [link](https://drive.google.com/open?id=0B1f0cjN920H6Yi1RelBscW1kQVU).
